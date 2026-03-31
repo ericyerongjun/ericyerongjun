@@ -4,5 +4,5 @@
 
 ## I'm a student research assistant in Data Exploring and Extracting @ PolyU (DEEP Lab) under Prof. Xiao HUANG
 
-## I'm supervised by Prof. Xiao HUANG and co-supervised by Prof. George Baciu
+## I'm supervised by Prof. Xiao HUANG
 
