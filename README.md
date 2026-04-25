@@ -1,6 +1,6 @@
 # Hi, I'm Eric (YE Rongjun) 👋
 
-I'm a Data Science & Analytics student at **Hong Kong Polytechnic University**, working as a Student Research Assistant in [PolyU X AI Lab](https://web.comp.polyu.edu.hk/xiaohuang/deeplab.html) under Prof. Xiao HUANG.
+I'm a Data Science & Analytics student at **Hong Kong Polytechnic University**, working as a Student Research Assistant in [PolyU X AI Lab](https://web.comp.polyu.edu.hk/xiaohuang/) under Prof. Xiao HUANG.
 
 ---
 
