@@ -24,6 +24,7 @@ GPA: 3.73 / 4.3 · Dean's Honours List (2024/25) · Full Entry Scholarship · Po
 ## 🌐 Connect
 
 [![Website](https://img.shields.io/badge/Website-ericyerongjun.github.io-blue?style=flat-square&logo=github)](https://ericyerongjun.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rongjun%20Ye-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rongjun-ye-814453331)
 [![Email](https://img.shields.io/badge/Email-24127428d@connect.polyu.hk-red?style=flat-square&logo=gmail&logoColor=white)](mailto:24127428d@connect.polyu.hk)
 
 ---
